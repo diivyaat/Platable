@@ -14,33 +14,19 @@ Secure Authentication with JWT token support
 
 🗂️ Tech Stack
 Frontend
-React + Vite
+-React + Vite
 
-TypeScript
+-TypeScript
 
-Tailwind CSS
+-Tailwind CSS
 
 Backend
-Node.js + Express
+-Node.js + Express
 
-MongoDB
+-MongoDB
 
-JWT Authentication
+-JWT Authentication
 
-📁 Project Structure
-foodzy/
-├── backend/            # API logic and server setup
-│   ├── controllers/
-│   ├── database/
-│   ├── middlewares/
-│   ├── models/
-│   └── routes/
-├── frontend/           # React frontend with Vite
-│   ├── components/
-│   ├── public/
-│   └── src/
-├── .env, .gitignore
-└── package.json
 🤝 Contribution
 Fork the repository
 
